@@ -1,0 +1,11 @@
+# Dados originais não devem ser publicados
+*.csv
+*.zip
+
+# Arquivos locais
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
