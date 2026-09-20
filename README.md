@@ -1,6 +1,7 @@
 # MVP de Engenharia de Dados - atraso, pagamento e avaliação
 
-**Autor:** Bruno Oliveira  
+**Autor:** Bruno de Sousa Oliveira  
+**Matrícula:** 4052026000397 
 **Curso:** Pós-graduação em Engenharia de Dados - PUC-Rio
 
 ## Contexto de Negócio e Perguntas (Etapas 2 e 4.1)
